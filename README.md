@@ -74,9 +74,5 @@ Na prática, você:
 
 ___
 
-___
-
-___
-
 Uma boa conversa personalizada no Copilot Studio não é só “responder perguntas”, mas conduzir o usuário por um caminho bem definido, com contexto e intenção em cada etapa.
 
